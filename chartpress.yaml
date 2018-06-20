@@ -2,8 +2,8 @@ charts:
   - name: malariagen
     imagePrefix: malariagen/
     repo:
-      git: slejdops/helm-charts 
-      published: https://slejdops.github.io/helm-charts/ 
+      git: malariagen/helm-charts 
+      published: https://malariagen.github.io/helm-charts/ 
 #    images:
 #      notebook:
 #        contextPath: docker-images/notebook
