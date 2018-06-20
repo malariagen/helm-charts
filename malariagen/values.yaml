@@ -14,8 +14,8 @@ jupyterhub:
 
   singleuser:
     image:
-      name: gcr.io/malariagen-jupyterhub/jhub-test
-      tag: May-2018
+      name: malariagen/jupyter-notebook
+      tag: 8238711f4de7
     cpu:
       limit: 2
       guarantee: 1
