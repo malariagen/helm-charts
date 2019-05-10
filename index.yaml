@@ -2,6 +2,17 @@ apiVersion: v1
 entries:
   malariagen:
   - apiVersion: v1
+    created: 2019-05-10T15:10:11.526190668Z
+    description: Malariagen jupyterhub
+    digest: 69976fdf33767edbc9d24ddcb1d9f14b1fc6e261ef889cee0facb4474629ad29
+    maintainers:
+    - email: googlecloud@malariagen.net
+      name: kristofk
+    name: malariagen
+    urls:
+    - https://malariagen.github.io/helm-charts/malariagen-v0.0.0-bfa2bd5.tgz
+    version: v0.0.0-bfa2bd5
+  - apiVersion: v1
     created: 2018-06-20T10:30:47.933144576Z
     description: Malariagen jupyterhub
     digest: 82320b25669ba9aa51ac9844977609bec5c731d952a8d0a165f7dfabc3f5476f
@@ -23,4 +34,4 @@ entries:
     urls:
     - https://malariagen.github.io/helm-charts/malariagen-v0.0.0-3f35509.tgz
     version: v0.0.0-3f35509
-generated: 2018-06-20T10:30:47.929194262Z
+generated: 2019-05-10T15:10:11.522538082Z
